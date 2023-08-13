@@ -8,5 +8,5 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="https://i.pinimg.com/originals/5f/b7/46/5fb74651868c047aca8b0a2decd82dcc.gif" alt="GIF" width="192" height="108"/>
+<img src="https://media.tenor.com/bEC3jwYrty4AAAAM/cute.gif" alt="GIF" width="140" height="138"/>
 </p>
