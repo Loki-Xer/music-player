@@ -10,3 +10,7 @@
   <p align="center">
 <img src="https://media.tenor.com/bEC3jwYrty4AAAAM/cute.gif" alt="GIF" width="140" height="138"/>
 </p>
+
+<br>
+<div align="center">
+<a href='https://lokixjs.github.io/music-player/' target="_blank"><img alt='LIVE DEMO' src='https://img.shields.io/badge/Live_Demo-100000?style=for-the-badge&logo= live demo&logoColor=white&labelColor=darkblue&color=darkblue'/></a>
