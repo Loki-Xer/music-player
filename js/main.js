@@ -97,4 +97,4 @@ seekSlider.addEventListener('input', () => {
 
 function toggleColor(buttonId) {
     document.getElementById(buttonId).classList.toggle('active');
-}
+        } 
