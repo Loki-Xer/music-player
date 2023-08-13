@@ -20,4 +20,4 @@
 
 <br>
 <br>
-This is a source code of simple music player made by loki. You can use this as a base for your web. Just enjoy Good luck from loki ser :)
+This Is A Source Code Of Simple Music Player Made By Loki. You Can Use This As A Base For Your Web. Just Enjoy Good Luck From Loki Ser :)
